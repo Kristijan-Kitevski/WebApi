@@ -1,0 +1,11 @@
+C:\Kris programiranje\WebApi\WebApiDemo\EmployeeService\EmployeeDataAccsess\bin\Debug\EmployeeDataAccsess.dll.config
+C:\Kris programiranje\WebApi\WebApiDemo\EmployeeService\EmployeeDataAccsess\bin\Debug\EmployeeDataAccsess.dll
+C:\Kris programiranje\WebApi\WebApiDemo\EmployeeService\EmployeeDataAccsess\bin\Debug\EmployeeDataAccsess.pdb
+C:\Kris programiranje\WebApi\WebApiDemo\EmployeeService\EmployeeDataAccsess\bin\Debug\EntityFramework.dll
+C:\Kris programiranje\WebApi\WebApiDemo\EmployeeService\EmployeeDataAccsess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Kris programiranje\WebApi\WebApiDemo\EmployeeService\EmployeeDataAccsess\bin\Debug\EntityFramework.xml
+C:\Kris programiranje\WebApi\WebApiDemo\EmployeeService\EmployeeDataAccsess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Kris programiranje\WebApi\WebApiDemo\EmployeeService\EmployeeDataAccsess\obj\Debug\EmployeeDataAccsess.csproj.CoreCompileInputs.cache
+C:\Kris programiranje\WebApi\WebApiDemo\EmployeeService\EmployeeDataAccsess\obj\Debug\EmployeeDataAccsess.csproj.CopyComplete
+C:\Kris programiranje\WebApi\WebApiDemo\EmployeeService\EmployeeDataAccsess\obj\Debug\EmployeeDataAccsess.dll
+C:\Kris programiranje\WebApi\WebApiDemo\EmployeeService\EmployeeDataAccsess\obj\Debug\EmployeeDataAccsess.pdb
